@@ -34,8 +34,8 @@ namespace RabinCryptosystem
             for (var i = 0; i < c.Length; i++)
             {
                 var D = Calc_D(b, c[i], n);
-                var mp = MathUtils.FastModularExponentiation(D, (p + 1) / 4, p);
-                var mq = MathUtils.FastModularExponentiation(D, (q + 1) / 4, q);
+                var mp = BigInteger.ModPow(D, (p + 1) / 4, p);
+                var mq = BigInteger.ModPow(D, (q + 1) / 4, q);
                 var (yp, yq) = MathUtils.ExtendedEuclideanAlgorithm(p, q);
                 var d = Calc_d(yp, yq, p, q, mp, mq, n);
                 var supposed_m = Calc_supposed_m(d, b, n);
@@ -74,14 +74,16 @@ namespace RabinCryptosystem
         private static byte Find_m(BigInteger[] m)
         {
             var countFounded_m = 0;
-            byte founded_m = 0;
+            var founded_m = -1;
 
             foreach (var mi in m)
             {
                 if (mi <= byte.MaxValue)
                 {
-                    countFounded_m++;
-                    founded_m = (byte)mi;
+                    if ((byte)mi != founded_m) {
+                        founded_m = (byte)mi;
+                        countFounded_m++;
+                    }
                 }
             }
 
@@ -91,7 +93,8 @@ namespace RabinCryptosystem
             if (countFounded_m > 1)
                 throw new ArgumentException($"Found {countFounded_m} correct m");
 
-            return founded_m;
+            // ReSharper disable once IntVariableOverflowInUncheckedContext
+            return (byte)founded_m;
         }
     }
 }

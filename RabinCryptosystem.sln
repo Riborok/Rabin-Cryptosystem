@@ -6,6 +6,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabinCryptosystem", "RabinC
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabinCryptosystemTests", "RabinCryptosystemTests\RabinCryptosystemTests.csproj", "{A6DE28D0-14B1-4BD8-B2D5-17588C407ED8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabinCryptosystemResearch", "RabinCryptosystemResearch\RabinCryptosystemResearch.csproj", "{4810E185-3B09-4AE0-8D69-2EEB745134E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabinCryptosystemResearchConsole", "RabinCryptosystemResearchConsole\RabinCryptosystemResearchConsole.csproj", "{71B609E8-D125-4485-8A71-9E3EA4104607}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabinCryptosystemResearchHelper", "RabinCryptosystemResearchHelper\RabinCryptosystemResearchHelper.csproj", "{56FFE2A4-C257-4A5D-AEF0-17D2EA282408}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +30,17 @@ Global
 		{A6DE28D0-14B1-4BD8-B2D5-17588C407ED8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A6DE28D0-14B1-4BD8-B2D5-17588C407ED8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A6DE28D0-14B1-4BD8-B2D5-17588C407ED8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4810E185-3B09-4AE0-8D69-2EEB745134E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4810E185-3B09-4AE0-8D69-2EEB745134E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4810E185-3B09-4AE0-8D69-2EEB745134E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4810E185-3B09-4AE0-8D69-2EEB745134E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71B609E8-D125-4485-8A71-9E3EA4104607}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71B609E8-D125-4485-8A71-9E3EA4104607}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71B609E8-D125-4485-8A71-9E3EA4104607}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71B609E8-D125-4485-8A71-9E3EA4104607}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56FFE2A4-C257-4A5D-AEF0-17D2EA282408}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56FFE2A4-C257-4A5D-AEF0-17D2EA282408}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56FFE2A4-C257-4A5D-AEF0-17D2EA282408}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56FFE2A4-C257-4A5D-AEF0-17D2EA282408}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

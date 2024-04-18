@@ -63,7 +63,7 @@ namespace Encryptor
         
         public void Validate_n(BigInteger n, ref bool isValid)
         {
-            const int Min_p = 256;
+            const int Min_p = byte.MaxValue + 1;
             isValid &= ValidateMinValue(nFieldName, n, Min_p.ToString(), Min_p);
         }
         
@@ -95,7 +95,7 @@ namespace Encryptor
         }
         
         private bool ValidatePrime(string fieldName, BigInteger value) {
-            if (!PrimeChecker.MillerRabinTest(value))
+            if (!MillerRabin.MillerRabinTest(value))
             {
                 _tbErrors.Text += $@"{fieldName} must be a prime number.{Environment.NewLine}";
                 return false;

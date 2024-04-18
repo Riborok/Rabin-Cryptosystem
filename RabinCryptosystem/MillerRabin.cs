@@ -4,9 +4,8 @@ using System.Security.Cryptography;
 
 namespace RabinCryptosystem
 {
-    public static class PrimeChecker
+    public static class MillerRabin
     {
-        
         private const int k = 6;
         
         public static bool MillerRabinTest(BigInteger n)

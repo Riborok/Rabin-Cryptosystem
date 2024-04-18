@@ -5,11 +5,11 @@
     <PropertyGroup>
         <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
         <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-        <ProjectGuid>{F7B59CBE-038F-44FA-AEBD-356C0F623E4D}</ProjectGuid>
+        <ProjectGuid>{56FFE2A4-C257-4A5D-AEF0-17D2EA282408}</ProjectGuid>
         <OutputType>Library</OutputType>
         <AppDesignerFolder>Properties</AppDesignerFolder>
-        <RootNamespace>RabinCryptosystem</RootNamespace>
-        <AssemblyName>RabinCryptosystem</AssemblyName>
+        <RootNamespace>RabinCryptosystemResearchHelper</RootNamespace>
+        <AssemblyName>RabinCryptosystemResearchHelper</AssemblyName>
         <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
         <FileAlignment>512</FileAlignment>
         <LangVersion>8</LangVersion>
@@ -43,11 +43,19 @@
         <Reference Include="System.Xml"/>
     </ItemGroup>
     <ItemGroup>
-        <Compile Include="Converter.cs" />
-        <Compile Include="MathUtils.cs" />
-        <Compile Include="MillerRabin.cs" />
+        <Compile Include="PrimeStorage.cs" />
         <Compile Include="Properties\AssemblyInfo.cs"/>
-        <Compile Include="RabinEncryptor.cs" />
+        <Compile Include="Range.cs" />
+        <Compile Include="Ranges.cs" />
+        <Compile Include="SieveOfEratosthenes.cs" />
+        <Compile Include="TestResult.cs" />
+        <Compile Include="UnambiguityTest.cs" />
+    </ItemGroup>
+    <ItemGroup>
+      <ProjectReference Include="..\RabinCryptosystem\RabinCryptosystem.csproj">
+        <Project>{f7b59cbe-038f-44fa-aebd-356c0f623e4d}</Project>
+        <Name>RabinCryptosystem</Name>
+      </ProjectReference>
     </ItemGroup>
     <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets"/>
     <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
