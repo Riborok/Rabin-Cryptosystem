@@ -9,37 +9,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ade6917a-40db-4028-aaf8-3f6df7f428d8" name="Changes" comment="temp">
-      <change afterPath="$PROJECT_DIR$/RabinCryptosystemResearch/App.config" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RabinCryptosystemResearch/App.xaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RabinCryptosystemResearch/App.xaml.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RabinCryptosystemResearch/MainWindow.xaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RabinCryptosystemResearch/MainWindow.xaml.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RabinCryptosystemResearch/Properties/AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RabinCryptosystemResearch/Properties/Resources.Designer.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RabinCryptosystemResearch/Properties/Resources.resx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RabinCryptosystemResearch/RabinCryptosystemResearch.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RabinCryptosystemResearch/RangeInputDialog.xaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RabinCryptosystemResearch/RangeInputDialog.xaml.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RabinCryptosystemResearch/packages.config" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RabinCryptosystemResearchConsole/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RabinCryptosystemResearchConsole/Properties/AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RabinCryptosystemResearchConsole/RabinCryptosystemResearchConsole.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RabinCryptosystemResearchHelper/PrimeStorage.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RabinCryptosystemResearchHelper/Properties/AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RabinCryptosystemResearchHelper/RabinCryptosystemResearchHelper.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RabinCryptosystemResearchHelper/Range.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RabinCryptosystemResearchHelper/Ranges.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RabinCryptosystemResearchHelper/SieveOfEratosthenes.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RabinCryptosystemResearchHelper/TestResult.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RabinCryptosystemResearchHelper/UnambiguityTest.cs" afterDir="false" />
+    <list default="true" id="ade6917a-40db-4028-aaf8-3f6df7f428d8" name="Changes" comment="added research on which values provide Unambiguity decryption (added a program in the form of a console and 3D plot).">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.RabinCryptosystem/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.RabinCryptosystem/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Encryptor/Validator.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Encryptor/Validator.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RabinCryptosystem.sln" beforeDir="false" afterPath="$PROJECT_DIR$/RabinCryptosystem.sln" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RabinCryptosystem/PrimeChecker.cs" beforeDir="false" afterPath="$PROJECT_DIR$/RabinCryptosystem/MillerRabin.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RabinCryptosystem/RabinCryptosystem.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/RabinCryptosystem/RabinCryptosystem.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RabinCryptosystem/RabinEncryptor.cs" beforeDir="false" afterPath="$PROJECT_DIR$/RabinCryptosystem/RabinEncryptor.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RabinCryptosystemTests/Tests.cs" beforeDir="false" afterPath="$PROJECT_DIR$/RabinCryptosystemTests/Tests.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,6 +60,7 @@
     <setting file="file://$PROJECT_DIR$/Encryptor/FileUtils/FileService.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Encryptor/MainForm.Designer.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Encryptor/Managers/BufferManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock://D:/Desktop/TI/lab3/RabinCryptosystem/RabinCryptosystem/RabinEncryptor.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock://D:/Desktop/TI/lab3/RabinCryptosystem/RabinCryptosystem/RabinEncryptor.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock://D:/Desktop/TI/lab3/RabinCryptosystem/RabinCryptosystemResearch/MainWindow.xaml.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock://D:/Desktop/TI/lab3/RabinCryptosystem/RabinCryptosystemResearch/MainWindow.xaml.cs" root0="SKIP_HIGHLIGHTING" />
@@ -383,7 +356,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713479442408</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="added research on which values provide Unambiguity decryption (added a program in the form of a console and 3D plot).">
+      <option name="closed" value="true" />
+      <created>1713479687048</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1713479687048</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -408,6 +389,7 @@
     <MESSAGE value="added error handling when several m are found" />
     <MESSAGE value="init" />
     <MESSAGE value="temp" />
-    <option name="LAST_COMMIT_MESSAGE" value="temp" />
+    <MESSAGE value="added research on which values provide Unambiguity decryption (added a program in the form of a console and 3D plot)." />
+    <option name="LAST_COMMIT_MESSAGE" value="added research on which values provide Unambiguity decryption (added a program in the form of a console and 3D plot)." />
   </component>
 </project>

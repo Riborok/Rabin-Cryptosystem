@@ -1,0 +1,9 @@
+D:\Desktop\TI\lab3\RabinCryptosystem\RabinCryptosystemResearchHelper\bin\Debug\RabinCryptosystemResearchHelper.dll
+D:\Desktop\TI\lab3\RabinCryptosystem\RabinCryptosystemResearchHelper\bin\Debug\RabinCryptosystemResearchHelper.pdb
+D:\Desktop\TI\lab3\RabinCryptosystem\RabinCryptosystemResearchHelper\bin\Debug\RabinCryptosystem.dll
+D:\Desktop\TI\lab3\RabinCryptosystem\RabinCryptosystemResearchHelper\bin\Debug\RabinCryptosystem.pdb
+D:\Desktop\TI\lab3\RabinCryptosystem\RabinCryptosystemResearchHelper\obj\Debug\RabinCryptosystemResearchHelper.csproj.AssemblyReference.cache
+D:\Desktop\TI\lab3\RabinCryptosystem\RabinCryptosystemResearchHelper\obj\Debug\RabinCryptosystemResearchHelper.csproj.CoreCompileInputs.cache
+D:\Desktop\TI\lab3\RabinCryptosystem\RabinCryptosystemResearchHelper\obj\Debug\RabinCry.72949521.Up2Date
+D:\Desktop\TI\lab3\RabinCryptosystem\RabinCryptosystemResearchHelper\obj\Debug\RabinCryptosystemResearchHelper.dll
+D:\Desktop\TI\lab3\RabinCryptosystem\RabinCryptosystemResearchHelper\obj\Debug\RabinCryptosystemResearchHelper.pdb

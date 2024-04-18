@@ -1,0 +1,11 @@
+D:\Desktop\TI\lab3\RabinCryptosystem\RabinCryptosystemTests\bin\Release\RabinCryptosystemTests.dll
+D:\Desktop\TI\lab3\RabinCryptosystem\RabinCryptosystemTests\bin\Release\RabinCryptosystemTests.pdb
+D:\Desktop\TI\lab3\RabinCryptosystem\RabinCryptosystemTests\bin\Release\nunit.framework.dll
+D:\Desktop\TI\lab3\RabinCryptosystem\RabinCryptosystemTests\bin\Release\RabinCryptosystem.dll
+D:\Desktop\TI\lab3\RabinCryptosystem\RabinCryptosystemTests\bin\Release\RabinCryptosystem.pdb
+D:\Desktop\TI\lab3\RabinCryptosystem\RabinCryptosystemTests\bin\Release\nunit.framework.xml
+D:\Desktop\TI\lab3\RabinCryptosystem\RabinCryptosystemTests\obj\Release\RabinCryptosystemTests.csproj.AssemblyReference.cache
+D:\Desktop\TI\lab3\RabinCryptosystem\RabinCryptosystemTests\obj\Release\RabinCryptosystemTests.csproj.CoreCompileInputs.cache
+D:\Desktop\TI\lab3\RabinCryptosystem\RabinCryptosystemTests\obj\Release\RabinCry.7947A717.Up2Date
+D:\Desktop\TI\lab3\RabinCryptosystem\RabinCryptosystemTests\obj\Release\RabinCryptosystemTests.dll
+D:\Desktop\TI\lab3\RabinCryptosystem\RabinCryptosystemTests\obj\Release\RabinCryptosystemTests.pdb

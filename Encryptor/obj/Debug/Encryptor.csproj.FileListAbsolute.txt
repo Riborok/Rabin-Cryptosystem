@@ -1,0 +1,13 @@
+D:\Desktop\TI\lab3\RabinCryptosystem\Encryptor\bin\Debug\Encryptor.exe.config
+D:\Desktop\TI\lab3\RabinCryptosystem\Encryptor\bin\Debug\Encryptor.exe
+D:\Desktop\TI\lab3\RabinCryptosystem\Encryptor\bin\Debug\Encryptor.pdb
+D:\Desktop\TI\lab3\RabinCryptosystem\Encryptor\obj\Debug\Encryptor.csproj.AssemblyReference.cache
+D:\Desktop\TI\lab3\RabinCryptosystem\Encryptor\obj\Debug\Encryptor.MainForm.resources
+D:\Desktop\TI\lab3\RabinCryptosystem\Encryptor\obj\Debug\Encryptor.Properties.Resources.resources
+D:\Desktop\TI\lab3\RabinCryptosystem\Encryptor\obj\Debug\Encryptor.csproj.GenerateResource.cache
+D:\Desktop\TI\lab3\RabinCryptosystem\Encryptor\obj\Debug\Encryptor.csproj.CoreCompileInputs.cache
+D:\Desktop\TI\lab3\RabinCryptosystem\Encryptor\obj\Debug\Encryptor.csproj.Up2Date
+D:\Desktop\TI\lab3\RabinCryptosystem\Encryptor\obj\Debug\Encryptor.exe
+D:\Desktop\TI\lab3\RabinCryptosystem\Encryptor\obj\Debug\Encryptor.pdb
+D:\Desktop\TI\lab3\RabinCryptosystem\Encryptor\bin\Debug\RabinCryptosystem.dll
+D:\Desktop\TI\lab3\RabinCryptosystem\Encryptor\bin\Debug\RabinCryptosystem.pdb

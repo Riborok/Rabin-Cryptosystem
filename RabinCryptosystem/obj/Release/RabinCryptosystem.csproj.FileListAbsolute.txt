@@ -1,0 +1,6 @@
+D:\Desktop\TI\lab3\RabinCryptosystem\RabinCryptosystem\bin\Release\RabinCryptosystem.dll
+D:\Desktop\TI\lab3\RabinCryptosystem\RabinCryptosystem\bin\Release\RabinCryptosystem.pdb
+D:\Desktop\TI\lab3\RabinCryptosystem\RabinCryptosystem\obj\Release\RabinCryptosystem.csproj.AssemblyReference.cache
+D:\Desktop\TI\lab3\RabinCryptosystem\RabinCryptosystem\obj\Release\RabinCryptosystem.csproj.CoreCompileInputs.cache
+D:\Desktop\TI\lab3\RabinCryptosystem\RabinCryptosystem\obj\Release\RabinCryptosystem.dll
+D:\Desktop\TI\lab3\RabinCryptosystem\RabinCryptosystem\obj\Release\RabinCryptosystem.pdb

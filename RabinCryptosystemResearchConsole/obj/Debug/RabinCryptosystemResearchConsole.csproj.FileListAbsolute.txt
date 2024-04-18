@@ -1,0 +1,11 @@
+D:\Desktop\TI\lab3\RabinCryptosystem\RabinCryptosystemResearchConsole\bin\Debug\RabinCryptosystemResearchConsole.exe
+D:\Desktop\TI\lab3\RabinCryptosystem\RabinCryptosystemResearchConsole\bin\Debug\RabinCryptosystemResearchConsole.pdb
+D:\Desktop\TI\lab3\RabinCryptosystem\RabinCryptosystemResearchConsole\bin\Debug\RabinCryptosystem.dll
+D:\Desktop\TI\lab3\RabinCryptosystem\RabinCryptosystemResearchConsole\bin\Debug\RabinCryptosystem.pdb
+D:\Desktop\TI\lab3\RabinCryptosystem\RabinCryptosystemResearchConsole\obj\Debug\RabinCryptosystemResearchConsole.csproj.AssemblyReference.cache
+D:\Desktop\TI\lab3\RabinCryptosystem\RabinCryptosystemResearchConsole\obj\Debug\RabinCryptosystemResearchConsole.csproj.CoreCompileInputs.cache
+D:\Desktop\TI\lab3\RabinCryptosystem\RabinCryptosystemResearchConsole\obj\Debug\RabinCry.50AA9CE5.Up2Date
+D:\Desktop\TI\lab3\RabinCryptosystem\RabinCryptosystemResearchConsole\obj\Debug\RabinCryptosystemResearchConsole.exe
+D:\Desktop\TI\lab3\RabinCryptosystem\RabinCryptosystemResearchConsole\obj\Debug\RabinCryptosystemResearchConsole.pdb
+D:\Desktop\TI\lab3\RabinCryptosystem\RabinCryptosystemResearchConsole\bin\Debug\RabinCryptosystemResearchHelper.dll
+D:\Desktop\TI\lab3\RabinCryptosystem\RabinCryptosystemResearchConsole\bin\Debug\RabinCryptosystemResearchHelper.pdb

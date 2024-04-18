@@ -1,0 +1,9 @@
+D:\Desktop\TI\lab3\RabinCryptosystem\RabinCryptosystem\bin\Debug\RabinCryptosystem.exe.config
+D:\Desktop\TI\lab3\RabinCryptosystem\RabinCryptosystem\bin\Debug\RabinCryptosystem.exe
+D:\Desktop\TI\lab3\RabinCryptosystem\RabinCryptosystem\bin\Debug\RabinCryptosystem.pdb
+D:\Desktop\TI\lab3\RabinCryptosystem\RabinCryptosystem\obj\Debug\RabinCryptosystem.csproj.AssemblyReference.cache
+D:\Desktop\TI\lab3\RabinCryptosystem\RabinCryptosystem\obj\Debug\RabinCryptosystem.Properties.Resources.resources
+D:\Desktop\TI\lab3\RabinCryptosystem\RabinCryptosystem\obj\Debug\RabinCryptosystem.csproj.GenerateResource.cache
+D:\Desktop\TI\lab3\RabinCryptosystem\RabinCryptosystem\obj\Debug\RabinCryptosystem.csproj.CoreCompileInputs.cache
+D:\Desktop\TI\lab3\RabinCryptosystem\RabinCryptosystem\obj\Debug\RabinCryptosystem.exe
+D:\Desktop\TI\lab3\RabinCryptosystem\RabinCryptosystem\obj\Debug\RabinCryptosystem.pdb
