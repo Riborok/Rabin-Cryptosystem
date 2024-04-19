@@ -1,5 +1,6 @@
 ﻿// ReSharper disable PossibleLossOfFraction InconsistentNaming SuggestBaseTypeForParameter ReturnTypeCanBeEnumerable.Local ParameterTypeCanBeEnumerable.Local
 using System;
+using System.Linq;
 using System.Numerics;
 using System.Text;
 
@@ -73,28 +74,18 @@ namespace RabinCryptosystem
         
         private static byte Find_m(BigInteger[] m)
         {
-            var countFounded_m = 0;
-            var founded_m = -1;
+            var foundM = m.Where(mi => mi <= byte.MaxValue)
+                .Select(mi => (byte)mi)
+                .Distinct()
+                .ToList();
 
-            foreach (var mi in m)
-            {
-                if (mi <= byte.MaxValue)
-                {
-                    if ((byte)mi != founded_m) {
-                        founded_m = (byte)mi;
-                        countFounded_m++;
-                    }
-                }
-            }
-
-            if (countFounded_m == 0)
-                throw new ArgumentException("Can't find any m");
+            if (foundM.Count == 0)
+                throw new InvalidOperationException("Can't find any m");
             
-            if (countFounded_m > 1)
-                throw new ArgumentException($"Found {countFounded_m} correct m");
-
-            // ReSharper disable once IntVariableOverflowInUncheckedContext
-            return (byte)founded_m;
+            if (foundM.Count > 1)
+                throw new InvalidOperationException($"Found {foundM.Count} correct m values: {string.Join(", ", foundM)}");
+            
+            return foundM[0];
         }
     }
 }
